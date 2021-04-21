@@ -1,6 +1,6 @@
 # Правила поведения в чате «Voronezh Frontend Community»
 
-Чат в Телеграме: @vfcgroup.
+Чат в Телеграме: [@vfcgroup](https://t.me/vfcgroup).
 
 ## Рекомендации
 
