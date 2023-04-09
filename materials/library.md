@@ -22,9 +22,8 @@
 3. ***В. Феррейра, "Теоретический минимум по Computer Science"***
 
 ## Алгоритмы
-1. ***Р. Стивенс, "Алгоритмы. Теория и практическое применение".***
-2. ***Х. Ришал, "Грокаем алгоритмы"***
-Книга для популярного чтения, кажется, что есть более серьезные пособия
+1. **[Р. Стивенс «Алгоритмы. Теория и практическое применение. 2-е издание»](https://eksmo.ru/book/algoritmy-teoriya-i-prakticheskoe-primenenie-2-e-izdanie-ITD1210854/)** (перевод, оригинал «[Essential Algorithms: A Practical Approach to Computer Algorithms](https://www.wiley.com/en-us/Essential+Algorithms%3A+A+Practical+Approach+to+Computer+Algorithms-p-9781118797297)»)
+2. **[А. Бхаргава «Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих»](https://www.piter.com/collection/all/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2)** (перевод, оригинал «[Grokking Algorithms. An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms)»)
 
 ## Структуры данных
 `TODO`
