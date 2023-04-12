@@ -27,6 +27,8 @@
 
 1. [project-based-learning. Практические проекты на разных языках](https://github.com/practical-tutorials/project-based-learning)
 2. [build-your-own-x. Практические проекты на разных языках](https://github.com/codecrafters-io/build-your-own-x)
+3. [learngitbranching. Игра-пособие для изучения git](https://learngitbranching.js.org/)
+4. [type-challenges. Практические задания на TypeScript](https://github.com/type-challenges/type-challenges)
 
 ## Ресурсы, инструменты
 
